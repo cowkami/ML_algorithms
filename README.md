@@ -11,3 +11,4 @@
 ### Julia
 - NMF
 - Variational Bayes
+- Ridge and Lasso
