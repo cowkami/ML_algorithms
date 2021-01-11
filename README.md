@@ -1,14 +1,9 @@
 # Machine Learning Algorithms
 
-- Non-Negative Matrix Factorization (NMF)
-- Fast Independent Component Analysis (FastICA)
-- Variational Bayes of Gaussan mixture model
-
-## Language
 ### Python
-- FastICA
+- Fast Independent Component Analysis (FastICA)
 
 ### Julia
-- NMF
-- Variational Bayes
+- Non-Negative Matrix Factorization (NMF)
+- Variational Bayes of Gaussan mixture model
 - Ridge and Lasso
